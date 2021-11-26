@@ -2,7 +2,7 @@
 
 前端：
 https://github.com/lefex/FE/ 前端小课，一本帮助你学习前端的多媒体电子书。每天一小课，分阶段、系统地学习 #前端 知识。每天打卡，自我驱动学习，有问题及时讨论
-
+G6 (https://github.com/antvis/G6)： JavaScript 中的图形 #可视化 #框架
 
 
 数据结构
