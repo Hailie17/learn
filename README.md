@@ -8,6 +8,8 @@ G6 (https://github.com/antvis/G6)： JavaScript 中的图形 #可视化 #框架
 JavaScript 库：Checkboxland (https://www.bryanbraun.com/checkboxland/?)，（github地址 (https://github.com/bryanbraun/checkboxland)）可将任意内容转化为 HTML 复选框，用以展示各类动画、文本、图像、视频等内容。
 在作者提供的 Demo 里面，包含了贪吃蛇、水波涟漪、3D 动画、真人视频等多种玩法。开发者也可通过作者提供的 API，进一步扩展更多玩法
 
+国外开发者 bedimcode 在 GitHub 开源了一个万圣节网站：Responsive Halloween Website (https://github.com/bedimcode/responsive-halloween-website) 🎃，并附带了完整的项目开发教程。
+该网站主要具备响应式布局、滚动动画、移动端优化、多平台设备兼容等特点。整体设计风格优雅、简洁，感兴趣的同学可以拿去练练手
 
 数据结构
 https://github.com/MTrajK/coding-problems  Python算法与数据结构学习资源集 
