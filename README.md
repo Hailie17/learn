@@ -15,6 +15,8 @@ https://github.com/MTrajK/coding-problems  Python算法与数据结构学习资�
 动画算法库：PathPlanning (https://github.com/zhm-real/PathPlanning)，主要实现多种在机器人领域中，常用到的路径规划算法，其中也包括基于搜索与采样的方法。
 为了让开发者便于理解，作者特意为每种算法设计了动画，用以展示路径规划算法的运行过程
 
+GitHub 上最大的算法开源库：The Algorithms (https://the-algorithms.com/)，网站收录了 Python、Java、C++、JavaScript、Go 等多种主流编程语言的算法代码实现。
+其中包含二分查找、快速排序、斐波那契数列等常见算法。开发者也可以依照排序、搜索、动态规划、数据结构等分类进行筛选学习
 
 机器学习
 https://github.com/Captain1986/CaptainBlackboard 关于机器学习、计算机视觉和工程技术的总结和分享 
