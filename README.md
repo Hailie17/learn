@@ -5,12 +5,16 @@ https://github.com/lefex/FE/ 前端小课，一本帮助你学习前端的多媒
 
 G6 (https://github.com/antvis/G6)： JavaScript 中的图形 #可视化 #框架
 
+JavaScript 库：Checkboxland (https://www.bryanbraun.com/checkboxland/?)，（github地址 (https://github.com/bryanbraun/checkboxland)）可将任意内容转化为 HTML 复选框，用以展示各类动画、文本、图像、视频等内容。
+在作者提供的 Demo 里面，包含了贪吃蛇、水波涟漪、3D 动画、真人视频等多种玩法。开发者也可通过作者提供的 API，进一步扩展更多玩法
+
 
 数据结构
 https://github.com/MTrajK/coding-problems  Python算法与数据结构学习资源集 
 
 动画算法库：PathPlanning (https://github.com/zhm-real/PathPlanning)，主要实现多种在机器人领域中，常用到的路径规划算法，其中也包括基于搜索与采样的方法。
 为了让开发者便于理解，作者特意为每种算法设计了动画，用以展示路径规划算法的运行过程
+
 
 机器学习
 https://github.com/Captain1986/CaptainBlackboard 关于机器学习、计算机视觉和工程技术的总结和分享 
