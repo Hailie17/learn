@@ -1,0 +1,86 @@
+进来扣1
+找工作的扣2
+
+安排：5+-天左右的高频面试题、写简历/自我介绍/项目介绍/模拟面试/真实面试
+
+面试题阶段：WEB前端高频面试题为基础 + 直播讲解
+
+一、HTML+CSS
+    1. 页面导入样式的时候，link和@import的区别？
+        link是个标签、import不是标签
+        浏览器先加载标签：link，后加载import
+        兼容性link更好；
+    2. href和src有什么区别？（面试题）
+        href：用来引入超文本，一般和页面相关，link a标签使用
+            当浏览器解析到这个地方的时候，它能识别出来这是超文本(css)，并且下载处理
+            同时不会暂停对文档的处理，更建议大家使用link引入css
+        src(source缩写，来源，指向外部资源的位置)：引用资源，替换当前元素，script，img;
+            在请求src的时候就会把它下载下来并应用到当前文档内
+            当浏览器解析到这个地方的时候，它会暂停其他的资源下载和处理
+            建议大家把script标签写在底部
+    2. 圣杯布局和双飞翼布局的区别？（笔试题）
+        作用：
+            这两种布局是解决同一个问题，两边宽度固定，中间自适应的三栏布局，先渲染中间内容
+        区别：
+            圣杯布局：不让中间内容被挡住，把中间的div设置左右的padding后，再把左右两个
+                div用相对定位的left和right，把中间内容给显示出来
+            双飞翼布局：不让中间内容被挡住，需要在中间部分创建一个子元素来存放内容
+                再次修改div的位置，使用margin给左右两个元素留出位置
+    3. 你来说一下css盒模型
+        盒模型是什么
+            是包裹着每个元素的框：margin、border、padding、content
+            标准盒模型（content-box）和ie盒模型（border-box）
+        标准盒模型和ie盒模型的区别
+            区别就是这两个盒模型在计算宽高时的不同
+            标准盒模型：宽度不计算padding和border
+            ie盒模型:宽度计算padding和border
+
+        3.1 盒模型外边距重叠（面试题）
+            外边距重叠：两个垂直相邻的块级元素，上下边距在一起的时候，
+                外边距会出现重叠现象，重叠后外边距就是两者较大的值（水平方向不会发生）
+            原因：1.都是标准流中的元素属于同一个BFC；2.没有被padding,border,clear内容隔开
+                    3.两个或以上垂直方向的相邻元素（父子级、兄弟级）
+            重叠后的margin是如何计算的：
+                1.margin都是正值，取最大
+                2.margin都是负值，取绝对值最大的，然后负向移位
+                2.margin有负有正，从负值中取绝对值最大的，从正值中取绝对值最大的，相加
+            解决方案：
+                1.父子级元素垂直外边距重叠
+                    可以给父元素定义1px的border-top/padding-top
+                    给父元素家overflow:hidden
+                    给子元素或者父元素设置：display:inline-block
+                    给父元素家前置内容：::before
+        3.2相邻（兄弟）元素垂直外边距重叠（外边距塌陷）
+            上面的元素有margin-bottom
+            下面的元素有margin-top
+            解决方法：单独设置margin-top/bottom
+                     使用BFC
+    5. 未知宽高元素，垂直水平居中
+        1. 使用transform:translate()
+            父元素设置相对定位，子元素设置top和left为50%，transform:translate(-50%，-50%)
+        2. flex布局
+            给父元素设置display:flex;justify-content:center;align-items:center;
+                你能介绍一下flex布局吗？
+                了解flex不居中关于主/侧轴的内容
+        3.定位
+            元素添加绝对定位，上右下做的值分别为0，margin:auto
+        4. table属性
+            父元素设置display:table
+            子元素设置：display:table-cell;vertical-align:middle;test-align:center
+    6. 清楚浮动
+        给父元素高
+        在元素的最后面加空标签，然给给该元素设置clear:both
+        给父元素加overflow:hidden，触发BFC
+        使用after伪类清楚浮动：（针对浮动；大厂都是这么用）
+            .clearfix:after{
+                content:'';
+                display:block;
+                height:0;
+                clear:both;
+                visibility:hidden;
+            }
+            .clearfix:after{
+                content:'';
+                display:block;
+                clear:both;
+            }
