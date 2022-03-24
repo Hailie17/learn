@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="box"></div>
+</body>
+<script src="a.js"></script>
+<script>
+    var ele = document.getElementById('box')
+    ele.innerHTML=`<p>我是内容</p>`
+
+    console.log(1)
+    Promise.resolve().then( () => {
+        console.log( '2  promise' )
+        alert('promise in alert')
+    } )//微任务在DOM渲染之前执行，p标签呢并不会加载
+    setTimeout( () => {
+        console.log( '3  settimeout' )
+    },0 )
+    console.log(4)
+</script>
+</html>
