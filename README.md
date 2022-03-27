@@ -57,6 +57,8 @@ OWASP（开放式 Web 程序安全项目）出品的一份技术 #速查表 ：C
 
 一款简单易用的开源 Kubernetes #可视化 #管理面板：KubePi (https://github.com/KubeOperator/KubePi)。可允许管理员导入多个 Kubernetes 集群，并通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
+Vue3.2 中的 setup 语法糖，保证你看的明明白白！InstantView (https://telegra.ph/Vue32-%E4%B8%AD%E7%9A%84-setup-%E8%AF%AD%E6%B3%95%E7%B3%96%E4%BF%9D%E8%AF%81%E4%BD%A0%E7%9C%8B%E7%9A%84%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BD-03-27) from Source (https://mp.weixin.qq.com/s/Dxr07892V7U2NNiAfl2gWg)
+
 数据结构
 https://github.com/MTrajK/coding-problems  Python算法与数据结构学习资源集 
 
@@ -257,3 +259,6 @@ Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文�
 awesome-web-scraping (https://github.com/lorien/awesome-web-scraping)这里面收集了有关网络 #爬虫 的各种资料、工具库的列表，不仅仅是 Python，还有 Go、Ruby、JavaScript、PHP ，一些爬虫商业服务、控制台工具、无头浏览器、验证码破解网站等 中文版 (https://github.com/Germey/AwesomeWebScraping)
 
 面试鸭 (https://github.com/liyupi/mianshiya-public) - 干净免费的面试 #刷题 网站，帮你拿到满意的 offer！React + Node + 云开发全栈项目，包含网站前台 + 管理员后台的完整前后端代码
+
+游戏:
+CF (https://codingfantasy.com/)  通过游戏学习写代码  传统学习枯燥缺乏实践，这个网站将学习前端代码做成互动式 #游戏 ，通过玩游戏来学习写代码
