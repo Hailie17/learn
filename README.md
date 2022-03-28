@@ -43,6 +43,8 @@ Solidjs (https://www.solidjs.com/) – JavaScript UI 库
 
 JavaScript 库：Checkboxland (https://www.bryanbraun.com/checkboxland/?)，（github地址 (https://github.com/bryanbraun/checkboxland)）可将任意内容转化为 HTML 复选框，用以展示各类动画、文本、图像、视频等内容。
 
+33个JS概念学习指南 (https://github.com/stephentian/33-js-concepts)这个项目是为了帮助开发者掌握 JavaScript 概念而创立的。它不是必备，但在未来学习 #JavaScript 中，可以作为一篇 #指南
+
 给没耐心的程序员的JavaScript指南 (https://exploringjs.com/impatient-js/toc.html) #JavaScript #指南
 
 The Algorithms-JavaScript (https://the-algorithms.com/language/javascript)  GitHub (https://github.com/TheAlgorithms/Javascript)上的一个开源项目，针对 #JavaScript 初学者的各种 #算法 实现，遵循最佳实践。
