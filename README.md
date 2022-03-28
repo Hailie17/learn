@@ -260,5 +260,7 @@ awesome-web-scraping (https://github.com/lorien/awesome-web-scraping)这里面�
 
 面试鸭 (https://github.com/liyupi/mianshiya-public) - 干净免费的面试 #刷题 网站，帮你拿到满意的 offer！React + Node + 云开发全栈项目，包含网站前台 + 管理员后台的完整前后端代码
 
+#Windows软件ToastFish：隐蔽背单词软件一个利用Windows通知栏背单词的软件。可以让你在上班、上课等恶劣环境下安全隐蔽地背单词 🧑‍💻GitHub：https://github.com/Uahh/ToastFish
+
 游戏:
 CF (https://codingfantasy.com/)  通过游戏学习写代码  传统学习枯燥缺乏实践，这个网站将学习前端代码做成互动式 #游戏 ，通过玩游戏来学习写代码
