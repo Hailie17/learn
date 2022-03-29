@@ -320,3 +320,10 @@ awesome-web-scraping (https://github.com/lorien/awesome-web-scraping)这里面�
 
 游戏:
 CF (https://codingfantasy.com/)  通过游戏学习写代码  传统学习枯燥缺乏实践，这个网站将学习前端代码做成互动式 #游戏 ，通过玩游戏来学习写代码
+
+https://github.com/shfshanyue/blog 在这里写一些工作中遇到的前端，后端以及运维的问题 ； 个人博客https://shanyue.tech/
+
+https://github.com/h5bp/Front-end-Developer-Interview-Questions/  一个有用的前端相关问题列表，你可以用来面试潜在的候选人，测试自己或完全忽略
+
+https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers  前端开发面试题
+
