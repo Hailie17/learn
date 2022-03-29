@@ -262,6 +262,60 @@ awesome-web-scraping (https://github.com/lorien/awesome-web-scraping)这里面�
 
 面试鸭 (https://github.com/liyupi/mianshiya-public) - 干净免费的面试 #刷题 网站，帮你拿到满意的 offer！React + Node + 云开发全栈项目，包含网站前台 + 管理员后台的完整前后端代码
 
+开源项目
+
+    https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+    建立最好的面试地图。目前的内容包括js、网络、浏览器相关、性能优化、安全性、框架、git、数据结构、算法等。
+
+    https://github.com/Advanced-Frontend/Daily-Interview-Question
+    每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+
+    https://lucifer.ren/fe-interview
+    宇宙最强的前端面试指南。
+
+    https://github.com/stone0090/alibaba-interview
+    阿里巴巴面试资源汇总。
+
+    https://github.com/haizlin/fe-interview
+    前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）。
+
+    https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn
+    如何通过饿了么大前端的面试, 职位是 2~3 年经验的 Node.js 服务端程序员 (并不是全栈)。
+
+    https://github.com/HerbertKarajan/Fe-Interview-questions
+    目前最全的前端开发面试题及答案。
+
+    https://github.com/poetries/FE-Interview-Questions
+    前端面试常考问题整理，按模块知识点分类。
+
+    https://github.com/fex-team/interview-questions
+    FEX 面试问题。
+
+    https://github.com/h5bp/Front-end-Developer-Interview-Questions
+    一个有用的前端相关问题列表，你可以用来面试潜在的候选人，测试自己或完全忽略。
+
+    https://github.com/paddingme/Front-end-Web-Development-Interview-Question
+    前端开发面试题大收集，前端面试集锦。
+
+    https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
+    GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）。
+
+    https://github.com/Advanced-Interview-Question/front-end-interview
+    前端开发者面试清单。
+
+    https://github.com/airuikun/Weekly-FE-Interview
+    每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
+
+    https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md
+    面试的内容包含：HTML + CSS + JS + ES6 + Webpack + Vue + React + Node + HTTPS + 数据结构与算法 + Git 。
+
+    https://github.com/biaochenxuying/blog
+    JavaScript 数据结构与算法之美。
+
+    https://github.com/search?o=desc&p=1&q=%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95&s=stars&type=Repositories
+    更多前端面试开源项目 ...
+
+
 #Windows软件ToastFish：隐蔽背单词软件一个利用Windows通知栏背单词的软件。可以让你在上班、上课等恶劣环境下安全隐蔽地背单词 🧑‍💻GitHub：https://github.com/Uahh/ToastFish
 
 游戏:
